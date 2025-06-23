@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Understanding JavaScript Events",
+      "content": "Events in JavaScript allow you to create interactive web pages. You can listen for user actions like clicks, form submissions, or keyboard input, and respond accordingly using event listeners. Mastering events is key to dynamic front-end development.",
+      "author": "Alex"
+    },
+    {
+      "id": "3",
+      "title": "Why APIs Matter in Frontend Projects",
+      "content": "APIs let your frontend application talk to servers and databases. You can fetch, send, update, or delete data using HTTP methods like GET, POST, PATCH, and DELETE. This unlocks real-world functionality in your projects.",
+      "author": "Nia"
+    },
+    {
+      "id": "4ab4",
+      "title": "javascript needs practice",
+      "content": "coding coding coding",
+      "author": "samuel"
+    }
+  ]
+}

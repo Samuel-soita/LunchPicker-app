@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#container {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+#post-list {
+  width: 30%;
+  border-right: 1px solid #ccc;
+  padding-right: 1rem;
+}
+
+#post-detail {
+  width: 70%;
+}
+
+form {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input, textarea {
+  padding: 8px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+button {
+  padding: 10px;
+  font-size: 1rem;
+  width: fit-content;
+}
+
+.hidden {
+  display: none;
+}
+
+.post-title:hover {
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
